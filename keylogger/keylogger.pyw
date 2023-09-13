@@ -8,7 +8,7 @@ import time
 
 computer_name = socket.gethostname()
 
-webhook_url = "https://discordapp.com/api/webhooks/1143883741975040040/bQFWBjhqDPbyUEP9ou-sRfQaBzfmu3x3PVPV15_MLGuPm4FX0kroWmF5VMWqDO_CbTJJ"
+webhook_url = "YOUR WEBHOOK"
 rate_limit_reset_time = 0  # Initialize the rate limit reset time
 min_time_between_messages = 2  # Minimum time (in seconds) between sending messages
 
